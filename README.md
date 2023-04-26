@@ -1,2 +1,2 @@
 # guptaranjan
-Ui designer
+UI Developer
